@@ -1,0 +1,21 @@
+{
+  "name": "university-management",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/server.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Farjana",
+  "license": "ISC",
+  "dependencies": {
+    "@craco/craco": "^7.1.0",
+    "dotenv": "^16.1.1",
+    "express": "^4.18.2",
+    "mongoose": "^7.2.2"
+  },
+  "devDependencies": {
+    "typescript": "^5.0.4"
+  }
+}

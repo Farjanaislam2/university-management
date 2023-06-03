@@ -1,7 +1,7 @@
 import mongoose from 'mongoose'
 
-import app from './app'
-import config from './config'
+import app from './app/app'
+import config from './app/config'
 
 async function bootstrap() {
   try {

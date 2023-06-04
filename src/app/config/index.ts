@@ -1,5 +1,6 @@
 import dotenv from 'dotenv'
 import path from 'path'
+/* eslint-disable no-undef */
 
 dotenv.config({ path: path.join(process.cwd(), '.env') })
 

@@ -1,0 +1,28 @@
+{
+  message: 'Database connecct successfully',
+  level: 'info',
+  service: 'user-service',
+  label: 'phero',
+  timestamp: '2023-06-07T18:10:19.923Z'
+}
+{
+  message: 'application listening on port 5000',
+  level: 'info',
+  service: 'user-service',
+  label: 'phero',
+  timestamp: '2023-06-07T18:10:19.967Z'
+}
+{
+  message: 'Database connecct successfully',
+  level: 'info',
+  service: 'user-service',
+  label: 'phero',
+  timestamp: '2023-06-07T18:10:47.874Z'
+}
+{
+  message: 'application listening on port 5000',
+  level: 'info',
+  service: 'user-service',
+  label: 'phero',
+  timestamp: '2023-06-07T18:10:47.906Z'
+}

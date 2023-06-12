@@ -1,8 +1,5 @@
-import { Schema, model, Model } from 'mongoose'
-import { IUser } from './users.interface'
-
-// Create a new Model type that knows about IUserMethods...
-type UserModel = Model<IUser, object>
+import { Schema, model } from 'mongoose'
+import { IUser, UserModel } from './user.interface'
 
 // 2. Create a Schema corresponding to the document interface.
 const userSchema = new Schema<IUser>(

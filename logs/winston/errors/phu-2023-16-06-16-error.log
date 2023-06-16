@@ -1,0 +1,60 @@
+Fri Jun 16 2023 16 35 1 [phero!] error: globalErrorHandler [
+  {
+    "code": "invalid_type",
+    "expected": "string",
+    "received": "undefined",
+    "path": [
+      "body",
+      "role"
+    ],
+    "message": "role is required"
+  }
+]
+Fri Jun 16 2023 16 40 48 [phero!] error: globalErrorHandler [
+  {
+    "code": "invalid_type",
+    "expected": "string",
+    "received": "undefined",
+    "path": [
+      "body",
+      "role"
+    ],
+    "message": "role is required"
+  }
+]
+Fri Jun 16 2023 16 41 17 [phero!] error: globalErrorHandler [
+  {
+    "code": "invalid_type",
+    "expected": "string",
+    "received": "undefined",
+    "path": [
+      "body",
+      "role"
+    ],
+    "message": "role is required"
+  }
+]
+Fri Jun 16 2023 16 41 54 [phero!] error: globalErrorHandler [
+  {
+    "code": "invalid_type",
+    "expected": "string",
+    "received": "undefined",
+    "path": [
+      "body",
+      "role"
+    ],
+    "message": "role is required"
+  }
+]
+Fri Jun 16 2023 16 49 18 [phero!] error: globalErrorHandler [
+  {
+    "code": "invalid_type",
+    "expected": "string",
+    "received": "undefined",
+    "path": [
+      "body",
+      "role"
+    ],
+    "message": "role is required"
+  }
+]

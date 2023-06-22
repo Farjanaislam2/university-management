@@ -3,12 +3,12 @@
   level: 'info',
   service: 'user-service',
   label: 'phero',
-  timestamp: '2023-06-07T20:42:07.495Z'
+  timestamp: '2023-06-22T05:12:42.657Z'
 }
 {
   message: 'application listening on port 5000',
   level: 'info',
   service: 'user-service',
   label: 'phero',
-  timestamp: '2023-06-07T20:42:07.532Z'
+  timestamp: '2023-06-22T05:12:42.681Z'
 }

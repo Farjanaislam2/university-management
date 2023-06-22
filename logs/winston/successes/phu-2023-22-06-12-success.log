@@ -3,40 +3,40 @@
   level: 'info',
   service: 'user-service',
   label: 'phero',
-  timestamp: '2023-06-07T14:11:13.323Z'
+  timestamp: '2023-06-22T06:18:11.030Z'
 }
 {
   message: 'application listening on port 5000',
   level: 'info',
   service: 'user-service',
   label: 'phero',
-  timestamp: '2023-06-07T14:11:13.342Z'
+  timestamp: '2023-06-22T06:18:11.050Z'
 }
 {
   message: 'Database connecct successfully',
   level: 'info',
   service: 'user-service',
   label: 'phero',
-  timestamp: '2023-06-07T14:22:41.947Z'
+  timestamp: '2023-06-22T06:19:39.467Z'
 }
 {
   message: 'application listening on port 5000',
   level: 'info',
   service: 'user-service',
   label: 'phero',
-  timestamp: '2023-06-07T14:22:41.999Z'
+  timestamp: '2023-06-22T06:19:39.487Z'
 }
 {
   message: 'Database connecct successfully',
   level: 'info',
   service: 'user-service',
   label: 'phero',
-  timestamp: '2023-06-07T14:26:33.175Z'
+  timestamp: '2023-06-22T06:24:06.331Z'
 }
 {
   message: 'application listening on port 5000',
   level: 'info',
   service: 'user-service',
   label: 'phero',
-  timestamp: '2023-06-07T14:26:33.232Z'
+  timestamp: '2023-06-22T06:24:06.353Z'
 }
